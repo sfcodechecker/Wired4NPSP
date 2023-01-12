@@ -3,7 +3,6 @@
 "orgid":"00D2w00000MGUza",
 "campaignid":"7012w000001BW17AAG",
 "gateway":"stripe",
-"p2pIframeURL":"https://trial-ac013.my.salesforce-sites.com/wired4NPSP__donate",
 "save_children_from_hunger":"https://trial-ac013.my.salesforce-sites.com/apex/wired4NPSP__donate?id=a1U2w000001HGalEAG",
 "make_the_tomorrow_beautiful":"https://trial-ac013.my.salesforce-sites.com/apex/wired4NPSP__donate?id=a1U2w000001HGavEAG",
 "bring_change":"https://trial-ac013.my.salesforce-sites.com/apex/wired4NPSP__donate?id=a1U2w000001HGf8EAG",
