@@ -1,6 +1,6 @@
 {
-"siteURL":"https://trial-ac013.my.salesforce-sites.com/services/apexrest/",
-"orgid":"00D2w00000MGUza",
+"siteURL":"https://atlascons-wired-release-dev-ed.my.salesforce-sites.com/services/apexrest/",
+"orgid":"00D2x000004TVSQ",
 "campaignid":"7012w000001BW17AAG",
 "gateway":"stripe",
 "p2pIframeURL":"https://atlascons-wired-release-dev-ed.my.salesforce-sites.com/wired4NPSP__donate",
