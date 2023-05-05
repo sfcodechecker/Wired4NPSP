@@ -1,7 +1,7 @@
 {
 "siteURL":"https://w4npsp-security-review-dev-ed.develop.my.salesforce-sites.com/services/apexrest/",
 "orgid":"00D5i00000CY6AJ",
-"campaignid":"7012w000001BW17AAG",
+"campaignid":"7015i000000ZmXmAAK",
 "gateway":"stripe",
 "p2pIframeURL":"https://w4npsp-security-review-dev-ed.develop.my.salesforce-sites.com/wired4NPSP__donate",
 "save_children_from_hunger":"https://trial-ac013.my.salesforce-sites.com/apex/wired4NPSP__donate?id=a1U2w000001HGalEAG",
